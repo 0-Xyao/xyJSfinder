@@ -2,6 +2,11 @@
 一个简单的提取web页面内js和url链接进行探测存活的扫描器
 
 ## 使用
+安装依赖库
+```
+pip3 install -r requirements.txt
+```
+脚本执行
 ```
 python3 xyJSfinder -u http://www.baidu.com
 ```
